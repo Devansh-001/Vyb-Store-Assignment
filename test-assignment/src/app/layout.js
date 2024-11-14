@@ -1,7 +1,6 @@
 import '../styles/globals.css';  // Import global CSS or Tailwind CSS
 import Navbar from '../components/Navbar'; // Import Navbar component
-import store from '../redux/store'; // Import Redux store
-import { Provider } from 'react-redux'; // Import Redux Provider
+
 
 export const metadata = {
   title: 'Test Assignment', // Title of the page for metadata
